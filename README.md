@@ -126,15 +126,3 @@ ng help
 Ou acesse a [documentação oficial do Angular CLI](https://angular.io/cli).
 
 ---
-
-## 👨‍💻 Autor
-
-Desenvolvido por [Leonardo Amorim](https://github.com/leoamff)
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
