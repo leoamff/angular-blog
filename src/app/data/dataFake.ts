@@ -1,14 +1,14 @@
 export const dataFake = [
   {
     "id":"1",
-    "title": "NOVO HOMEM DE FERRO EM 3D",
-    "description": "marvel anuncia um novo filme do homem de ferro, confira",
-    "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F51FA9F6CBD9F0C9B1394B1CC0A6A842D07091318674E234CD33CBF7C28CDC3/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    "title": "HOMEM DE FERRO REVIVE",
+    "description": "marvel anuncia a volta do homem de ferro em homem aranha 6",
+    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2024/01/Homem-de-Ferro-e-Homem-Aranha.jpg"
   },
   {
     "id":"2",
     "title": "Nova Série anunciada no Disney +",
-    "description": "bla blabla",
-    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+    "description": "veja o trailer da nova série",
+    "photoCover":"https://preview.redd.it/rc5gga9xvny91.jpg?auto=webp&s=fcdf0a4f16dd5cf7d547f6f546290774f72168b7"
   }
 ]
